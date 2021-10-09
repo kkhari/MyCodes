@@ -2,3 +2,4 @@ This is my first file
 Added new lines`:x
 one
 added from master
+added from feature
